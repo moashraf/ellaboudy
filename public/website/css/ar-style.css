@@ -1,0 +1,38 @@
+.navbar {
+    overflow: hidden
+}
+.navbar-right {
+    float: left!important
+}
+
+.latest {
+    direction: ltr
+}
+
+.contact .contact_form form button i {
+    transform: rotate(180deg)
+}
+
+.contact .contact_form form button i:first-of-type {
+    transform: translateX(-15px) rotate(180deg)
+}
+
+.contact_sec a i {
+    transform: rotate(180deg)
+}
+
+.contact_sec a i:first-of-type {
+    transform: rotate(180deg) translateX(8px)
+}
+
+.wrapper_contact .contact_us .contact_info {
+    text-align: right
+}
+
+.wrapper_contact .contact_us .contact_info button i {
+    transform: rotate(180deg)
+}
+
+.wrapper_contact .contact_us .contact_info button i:first-of-type {
+    transform: rotate(180deg) translateX(8px)
+}
